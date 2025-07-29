@@ -27,7 +27,6 @@ Battle-Scarred: 6 (of which StatTrak: 0)
 Classified (Pink)
 Minimal Wear: 1 (of which StatTrak: 0)
 Field-Tested: 3 (of which StatTrak: 0)
-
 ```
 
 
